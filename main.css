@@ -1,0 +1,360 @@
+html{
+    scroll-behavior: smooth;
+}
+.page1{
+    background: url('https://demo.cmssuperheroes.com/themeforest/wp-gaucho/wp-content/uploads/2015/11/1.jpg ') no-repeat center center ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+.head{
+    background-color:rgb(117, 79, 64,0.7);
+    position: fixed !important;
+    width: 100%!important;
+    z-index: 1;
+}
+.navbar-toggler{
+    color: white !important;
+}
+.nav-link{
+    color: white !important;
+    justify-items: center;
+}
+li a{
+    margin-left: 30px;
+}
+.shadow{
+    box-shadow: 0px 7px 5px grey;
+}
+.ml-5, .mx-5 {
+    margin-left: 1rem!important;
+}
+.lable1{
+    background-color: #938372!important;
+}
+.lable1-quote{
+    color: whitesmoke;
+    font-size: 30px;
+    line-height: 50px;
+    font-family: khand;
+    padding: 50px 0px 0px 50px;
+}
+.lable2-quote1{
+    margin: 0 0 15px 0;
+    font-family: 'Khand';
+    font-weight: 400;
+    color: #533834;
+    text-transform: none;
+}
+.lable2-quote2{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin: 0 0 15px 0;
+    font-family: 'Varela';
+    font-size: 16px;
+    color: #aea512;
+}
+.lable2-text{
+    font-size: 24px;
+    font-family: 'Varela';
+    line-height: 41px;
+    background-color: #fff;
+}
+.btn1{
+    background-color:#efb816 !important ;
+    height: 55px;
+    font-size: 26px;
+    font-family: khand;
+    overflow: hidden;
+    border-color: #d3b55c!important;
+}
+.btn2{
+    background: gray !important;
+    height: 55px;
+    font-size: 26px;
+    font-family: khand;
+    overflow: hidden;
+    border-color: #727d88!important;
+    margin-left: 10px;
+}
+.btn1:hover{
+    color: #212529;
+    background-color: #ffcd37;
+    border-color: #d39e00!important;
+}
+.btn2:hover{
+    color: #212529;
+    background-color: #92aabb;
+    border-color: #545b62!important;
+}
+/* ......page3....... */
+
+.page3{
+    
+}
+.dish-name{
+    color: #aea512;
+    font-size: 26px;
+    font-family: 'Khand', sans-serif;
+}
+.dish-img{
+    margin: 0 auto;
+}
+.dish-price{
+    font-family: 'Khand';
+    font-weight: 400;
+    font-size: 20px;
+}
+.dish-des{
+    font-weight:400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* ......todays specials...... */
+
+
+.page4{
+    background-image: url('https://demo.arrowthemes.com/joomla/gaucho/images/background/bg-1.jpg');
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: 50% -45.56px;
+}
+.special-name{
+    margin: 0 0 15px 0;
+    font-family: 'Khand';
+    font-weight: 400;
+    color: white;
+    text-transform: none;
+}
+.special-bar{
+    margin: 13px;
+    color:white!important;
+    font-size: 18px;
+    text-decoration: none;
+}
+.special-bar:hover {
+    color:black!important;
+}
+.navbar-right {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+.butternut{
+    background-color: rgb(197, 188, 46);
+    font-family: khand;
+    font-size: 25px;
+    color: white;
+    width: 113.5%;
+    height: 52px;
+    margin-top: -20px;
+    margin-left: -21px;
+    padding: 13px;
+}
+/* .............MENU list................. */
+
+.list-title{
+    margin: 0 0 15px 0;
+    font-family: 'Khand';
+    font-weight: 400;
+    color: #533834;
+    text-transform: none;
+    font-size: 23px;
+}
+.list-text{
+    font-size: 15px;
+    font-family: verdana;
+    font-weight: 400;
+    color: #7e7675;
+    text-transform: none;
+}
+.list-quote1{
+    margin: 0 0 15px 0;
+    font-family: 'Khand';
+    font-weight: 400;
+    color: #533834;
+    text-transform: none;
+}
+.list-quote2{
+    margin: 0 0 15px 0;
+    font-weight: 400;
+    color: #aea512;
+    font-size: 20px;
+    text-transform: none;
+}
+.list-quote3{
+    font-size: 16px;
+    font-family: verdana;
+    word-spacing: 5px;
+    line-height: 31px;
+}
+.list-button{
+    padding: 6px 9px 6px 9px;
+    font-size: 21px;
+    color: white;
+    background-color: rgb(135, 120, 105);
+    font-family: khand;
+    border: 1px solid rgb(135, 120, 105);
+}
+.no-bord{
+    border: none;
+}
+.py-5 {
+    padding-top: 8rem!important;
+}
+.bottom-line{
+        box-shadow: 0px 7px 5px grey;
+}
+
+/* ........page6....... */
+
+.con-image{
+    background: url('https://images.unsplash.com/photo-1487611459768-bd414656ea10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80 ');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.form-bg{
+    background-color: rgb(249, 249, 252);
+}
+.cont-button{
+    border: none!important;
+    background-color: #aea512!important;
+}
+.cont-button:hover{
+    border: none!important;
+    background-color: #757119!important;
+}
+.cont-title{
+    background-color:rgb(234, 234, 232);
+}
+.cont-title1{
+    font-family: 'Khand';
+    font-weight: 400;
+    color: #533834;
+    text-transform: none;
+    font-size: 42px;
+}
+.cont-title2{
+    padding-bottom: 13px;
+     font-weight: 400;
+    color: #aea512;
+    text-transform: none;
+    font-size: 19px;
+}
+.cont-location{
+    font-family: 'Khand';
+    font-weight: 400;
+    color: #533834;
+    text-transform: none;
+    font-size: 26px;
+    border-bottom: 1px solid#aea512;
+}
+.cont-addtext{
+    font-family: verdana;
+    font-size: 15px;
+    margin-bottom: 17px;
+}
+
+.cont-add{
+    font-family: verdana;
+    font-size: 15px;
+    margin-bottom: 17px;
+}
+.cont-numb{
+    padding-bottom: 3px;
+}
+.cont-icon{
+    padding-left: 10px;
+
+}
+.cont-nobord{
+    border: none;
+}
+/* ................page7............ */
+.about-image{
+    background-image:url("https://demo.arrowthemes.com/joomla/gaucho/images/background/bg-image-12.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    
+}
+.about-heading1{
+    color: white;
+    font-size: 40px;
+    font-family: khand;
+}
+.about-heading2{
+    color: white;
+    font-size: 16px;
+}
+.about-Nobg{
+    border: none!important;
+    background-color: inherit;
+}
+.about-card{
+    margin: 0px auto;
+    float: none;
+    margin-top: 8rem!important;
+}
+
+/* ..........page8........... */
+
+.hist-title1{
+    font-size: 40px;
+    font-family: 'Khand';
+    font-weight: 400;
+    color: #533834;
+    text-transform: none;
+}
+
+.hist-title2{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin: 0 0 15px 0;
+    font-family: 'Varela';
+    font-size: 16px;
+    color: #aea512;
+}
+.hist-Nobard{
+    border: none!important;
+}
+.largeL::first-letter{
+font-size: 200%
+}
+.largeL{
+    font: 400 18px / 32px 'Varela';
+    background: #ffffff;
+    color: #382f2f;
+}
+.page8a{
+    padding-bottom: 20px;
+border-bottom: 0.5px dashed rgb(184, 176, 176);
+}
+.philo-tilte{
+    font-family: 'khand';
+    font-size: 28px;
+    text-decoration: none;
+    color: #382f2f;
+    padding-bottom: 7px;
+    border-bottom: 0.5px solid #533834;
+}
+.philo-text{  
+    font-size:15px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+   
+}
+.img-responsive1{
+    display: block;
+    max-width:100%;
+    height: auto;
+}
+.img-responsive2{
+    display: block;
+    max-width: 80%;
+    height:auto;
+}
